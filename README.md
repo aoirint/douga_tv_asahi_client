@@ -41,4 +41,6 @@ order_index,season_short_name,season_id
 
 ```shell
 python3 main.py update_episodes
+# Or
+python3 main.py update_episodes_onefile
 ```
